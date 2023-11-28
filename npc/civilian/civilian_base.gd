@@ -10,8 +10,6 @@ class_name CivilianBase
 @onready var end_1 = $End1
 @onready var civ_holder = $CivHolder
 
-var startpoint = start_1
-var endpoint = end_1
 
 enum FACING_X { LEFT = -1, RIGHT = 1 }
 
@@ -29,8 +27,8 @@ func _process(delta):
 
 
 func spawn_civilian() -> void:
-	var x_pos = startpoint.position.x
-	var y_pos = endpoint.position.y
+	var x_pos = start_1.position.x
+	var y_pos = start_1.position.y
 	var new_civ = chicken_scene.instantiate()
 	
 	new_civ.position = Vector2(x_pos, y_pos)
