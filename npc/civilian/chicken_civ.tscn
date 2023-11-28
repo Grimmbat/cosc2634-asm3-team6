@@ -1,4 +1,4 @@
-[gd_scene load_steps=40 format=3 uid="uid://crocg7eb6icni"]
+[gd_scene load_steps=40 format=3 uid="uid://0ror8fwkgbmv"]
 
 [ext_resource type="PackedScene" uid="uid://dq0mdjxqj6agu" path="res://npc/civilian/civilian_base.tscn" id="1_52u2a"]
 [ext_resource type="Script" path="res://npc/civilian/chicken_civ.gd" id="2_xslh6"]
@@ -260,6 +260,6 @@ sprite_frames = SubResource("SpriteFrames_aq4bn")
 animation = &"run"
 frame_progress = 0.705787
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="." index="6"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." index="5"]
 position = Vector2(1, 1)
 shape = SubResource("RectangleShape2D_jdhu1")
