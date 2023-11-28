@@ -37,9 +37,6 @@ func spawn_civilian() -> void:
 	civ_holder.add_child(new_civ)
 	
 
-func move_civilian() -> void:
-	pass
-
 
 func _on_end_reached(area):
 	queue_free()
