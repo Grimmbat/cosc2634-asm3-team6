@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://csv5jsqev6g5p"]
+
+[ext_resource type="Script" path="res://npc/civilian/chicken_path.gd" id="1_niu2t"]
+
+[node name="ChickenPath" type="PathFollow2D"]
+script = ExtResource("1_niu2t")

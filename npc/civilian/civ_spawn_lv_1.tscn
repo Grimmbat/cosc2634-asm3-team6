@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://b15qsk60pji2a"]
+
+[node name="CivSpawn" type="Node2D"]
