@@ -1,11 +1,16 @@
-[gd_scene load_steps=3 format=3 uid="uid://cq517c7fth3sl"]
+[gd_scene load_steps=3 format=3 uid="uid://dfgtlo7qi3pad"]
 
-[ext_resource type="Script" path="res://civilian_base/civilian_base.gd" id="1_uf8w5"]
-[ext_resource type="PackedScene" uid="uid://cx1ruwepsliqj" path="res://chicken/chicken_civ.tscn" id="2_ke8gx"]
+[ext_resource type="Script" path="res://civilian_base/civilian_base.gd" id="1_x67iw"]
+[ext_resource type="Theme" uid="uid://dswlsq0knkdtj" path="res://new_theme.tres" id="2_t0ffl"]
 
 [node name="civilian_base" type="CharacterBody2D"]
-script = ExtResource("1_uf8w5")
-chicken_scene = ExtResource("2_ke8gx")
+script = ExtResource("1_x67iw")
+
+[node name="CivSpawnLocation" type="ProgressBar" parent="."]
+visible = false
+offset_right = 4.0
+offset_bottom = 27.0
+theme = ExtResource("2_t0ffl")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 
@@ -14,8 +19,13 @@ autostart = true
 
 [node name="CivHolder" type="Node" parent="."]
 
-[node name="Start1" type="Marker2D" parent="."]
+[node name="TestStart" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(4, 35)
 
-[node name="CivSpawnLocation" type="PathFollow2D" parent="."]
+[node name="CivDespawnTimer" type="Timer" parent="."]
+wait_time = 2.0
+autostart = true
 
 [connection signal="timeout" from="CivSpawnTimer" to="." method="_on_civ_spawn_timer_timeout"]
+[connection signal="timeout" from="CivDespawnTimer" to="." method="_on_civ_despawn_timer_timeout"]

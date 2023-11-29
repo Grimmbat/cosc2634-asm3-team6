@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dntkxhkdcvlus"
-path="res://.godot/imported/Idle-Run (44x30).png-f217dca43a965cbd282e83b84668dd56.ctex"
+uid="uid://d1mel82kas0sb"
+path="res://.godot/imported/Idle-Run (44x30).png-a07cf23598a2cc62436450d5fbae5902.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Slime/Idle-Run (44x30).png"
-dest_files=["res://.godot/imported/Idle-Run (44x30).png-f217dca43a965cbd282e83b84668dd56.ctex"]
+source_file="res://assets/Enemies/Slime/Idle-Run (44x30).png"
+dest_files=["res://.godot/imported/Idle-Run (44x30).png-a07cf23598a2cc62436450d5fbae5902.ctex"]
 
 [params]
 

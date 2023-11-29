@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cqwqghmn6degh"
-path="res://.godot/imported/Bullet.png-8a666c79711ed2bee189cb475fe8b687.ctex"
+uid="uid://lupwsw4gb5r6"
+path="res://.godot/imported/Bullet.png-41383027a16c0de577bf5271d44cc467.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Plant/Bullet.png"
-dest_files=["res://.godot/imported/Bullet.png-8a666c79711ed2bee189cb475fe8b687.ctex"]
+source_file="res://assets/Enemies/Plant/Bullet.png"
+dest_files=["res://.godot/imported/Bullet.png-41383027a16c0de577bf5271d44cc467.ctex"]
 
 [params]
 

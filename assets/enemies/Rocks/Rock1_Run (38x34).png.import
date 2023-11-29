@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://blk3vryxnnhoj"
-path="res://.godot/imported/Rock1_Run (38x34).png-8a06ef6a505ebeb64dd8ff7c5442f336.ctex"
+uid="uid://bchtr8twjfwcq"
+path="res://.godot/imported/Rock1_Run (38x34).png-8570898e8ed9591d8f745994b6542012.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Rocks/Rock1_Run (38x34).png"
-dest_files=["res://.godot/imported/Rock1_Run (38x34).png-8a06ef6a505ebeb64dd8ff7c5442f336.ctex"]
+source_file="res://assets/Enemies/Rocks/Rock1_Run (38x34).png"
+dest_files=["res://.godot/imported/Rock1_Run (38x34).png-8570898e8ed9591d8f745994b6542012.ctex"]
 
 [params]
 

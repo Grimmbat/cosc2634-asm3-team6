@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cc2lcqj6jrwxg"
-path="res://.godot/imported/Idle (38x24).png-c03b5d8b1e81e237b98b2562b3da757f.ctex"
+uid="uid://ix2p72ltt7b8"
+path="res://.godot/imported/Idle (38x24).png-acfb5a022ba2ba7884062342c43ae3b8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Snail/Idle (38x24).png"
-dest_files=["res://.godot/imported/Idle (38x24).png-c03b5d8b1e81e237b98b2562b3da757f.ctex"]
+source_file="res://assets/Enemies/Snail/Idle (38x24).png"
+dest_files=["res://.godot/imported/Idle (38x24).png-acfb5a022ba2ba7884062342c43ae3b8.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dvnfysm267aps"
-path="res://.godot/imported/Idle (36x30).png-45d0b1476b1456a8668ddea1d1f4dcc9.ctex"
+uid="uid://cn18kgp7e601i"
+path="res://.godot/imported/Idle (36x30).png-0d2927313f3b990a72991bb006b16df0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/AngryPig/Idle (36x30).png"
-dest_files=["res://.godot/imported/Idle (36x30).png-45d0b1476b1456a8668ddea1d1f4dcc9.ctex"]
+source_file="res://assets/Enemies/AngryPig/Idle (36x30).png"
+dest_files=["res://.godot/imported/Idle (36x30).png-0d2927313f3b990a72991bb006b16df0.ctex"]
 
 [params]
 

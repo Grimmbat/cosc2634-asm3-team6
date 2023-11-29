@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d2gfm6aamk3y"
-path="res://.godot/imported/Ceiling Out (46x30).png-093cc8759981ce691c92532d368b3904.ctex"
+uid="uid://7ys4utlpxmc2"
+path="res://.godot/imported/Ceiling Out (46x30).png-c30771ba0f8f46b0f5d14ecb4059d630.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Bat/Ceiling Out (46x30).png"
-dest_files=["res://.godot/imported/Ceiling Out (46x30).png-093cc8759981ce691c92532d368b3904.ctex"]
+source_file="res://assets/Enemies/Bat/Ceiling Out (46x30).png"
+dest_files=["res://.godot/imported/Ceiling Out (46x30).png-c30771ba0f8f46b0f5d14ecb4059d630.ctex"]
 
 [params]
 

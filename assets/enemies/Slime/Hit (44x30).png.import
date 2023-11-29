@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://7nld5xg5hkpf"
-path="res://.godot/imported/Hit (44x30).png-01a20deac93d26d3011f46546ff71ad9.ctex"
+uid="uid://dof7080powv53"
+path="res://.godot/imported/Hit (44x30).png-52953292d7e7ce2dba06911f1daa81ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Slime/Hit (44x30).png"
-dest_files=["res://.godot/imported/Hit (44x30).png-01a20deac93d26d3011f46546ff71ad9.ctex"]
+source_file="res://assets/Enemies/Slime/Hit (44x30).png"
+dest_files=["res://.godot/imported/Hit (44x30).png-52953292d7e7ce2dba06911f1daa81ff.ctex"]
 
 [params]
 

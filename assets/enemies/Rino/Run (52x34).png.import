@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ca11wnvy2gnkv"
-path="res://.godot/imported/Run (52x34).png-de5fb72f10734bb6be5d518c154ce1d6.ctex"
+uid="uid://bnko0brj4afof"
+path="res://.godot/imported/Run (52x34).png-9cfe90881ed741ee8fd667028c63dbb3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Rino/Run (52x34).png"
-dest_files=["res://.godot/imported/Run (52x34).png-de5fb72f10734bb6be5d518c154ce1d6.ctex"]
+source_file="res://assets/Enemies/Rino/Run (52x34).png"
+dest_files=["res://.godot/imported/Run (52x34).png-9cfe90881ed741ee8fd667028c63dbb3.ctex"]
 
 [params]
 

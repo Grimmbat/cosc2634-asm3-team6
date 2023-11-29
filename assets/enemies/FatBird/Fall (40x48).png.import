@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://v1vdfup5mpfr"
-path="res://.godot/imported/Fall (40x48).png-a906745f5ee99bc97f446fb75fcadb0f.ctex"
+uid="uid://phhmoupsubxh"
+path="res://.godot/imported/Fall (40x48).png-5ede4893ad11a937f50a9fe2cc49e960.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/FatBird/Fall (40x48).png"
-dest_files=["res://.godot/imported/Fall (40x48).png-a906745f5ee99bc97f446fb75fcadb0f.ctex"]
+source_file="res://assets/Enemies/FatBird/Fall (40x48).png"
+dest_files=["res://.godot/imported/Fall (40x48).png-5ede4893ad11a937f50a9fe2cc49e960.ctex"]
 
 [params]
 

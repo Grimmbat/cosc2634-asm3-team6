@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://n0pb84wfid4m"
-path="res://.godot/imported/Snail without shell.png-cc62f7989b6756be9dfff9f1ff699a1f.ctex"
+uid="uid://vtykctus62jp"
+path="res://.godot/imported/Snail without shell.png-181f82f679be1b14280ac2d9c7491372.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Snail/Snail without shell.png"
-dest_files=["res://.godot/imported/Snail without shell.png-cc62f7989b6756be9dfff9f1ff699a1f.ctex"]
+source_file="res://assets/Enemies/Snail/Snail without shell.png"
+dest_files=["res://.godot/imported/Snail without shell.png-181f82f679be1b14280ac2d9c7491372.ctex"]
 
 [params]
 

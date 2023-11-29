@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d3saeh8qu8iyw"
-path="res://.godot/imported/Spikes out (44x26).png-ce0d59964b4b421b5fb0e9c93940fe47.ctex"
+uid="uid://drgwsbanyc7m4"
+path="res://.godot/imported/Spikes out (44x26).png-e7ce76e4a595ca964bbf405b5194a55c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Turtle/Spikes out (44x26).png"
-dest_files=["res://.godot/imported/Spikes out (44x26).png-ce0d59964b4b421b5fb0e9c93940fe47.ctex"]
+source_file="res://assets/Enemies/Turtle/Spikes out (44x26).png"
+dest_files=["res://.godot/imported/Spikes out (44x26).png-e7ce76e4a595ca964bbf405b5194a55c.ctex"]
 
 [params]
 

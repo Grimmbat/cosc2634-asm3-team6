@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c65rc1g86fr8x"
-path="res://.godot/imported/Idle 2 (52x54).png-513522566bf956813c3f213e1337bb52.ctex"
+uid="uid://15wwxak11cgx"
+path="res://.godot/imported/Idle 2 (52x54).png-cce1587cf3b02a8bc817e7a1722c3a6d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Skull/Idle 2 (52x54).png"
-dest_files=["res://.godot/imported/Idle 2 (52x54).png-513522566bf956813c3f213e1337bb52.ctex"]
+source_file="res://assets/Enemies/Skull/Idle 2 (52x54).png"
+dest_files=["res://.godot/imported/Idle 2 (52x54).png-cce1587cf3b02a8bc817e7a1722c3a6d.ctex"]
 
 [params]
 

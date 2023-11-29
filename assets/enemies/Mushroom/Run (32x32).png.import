@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ck2e3mqleoflr"
-path="res://.godot/imported/Run (32x32).png-9434d69808105113d268da6c879d59bd.ctex"
+uid="uid://blhgh11uu56tb"
+path="res://.godot/imported/Run (32x32).png-c311406799db8c9d63363dd93be49f32.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Mushroom/Run (32x32).png"
-dest_files=["res://.godot/imported/Run (32x32).png-9434d69808105113d268da6c879d59bd.ctex"]
+source_file="res://assets/Enemies/Mushroom/Run (32x32).png"
+dest_files=["res://.godot/imported/Run (32x32).png-c311406799db8c9d63363dd93be49f32.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c5b3dls60rnji"
-path="res://.godot/imported/Walk (36x30).png-0786ee5ed1029da42225a934b18357cd.ctex"
+uid="uid://dm7256owy5umy"
+path="res://.godot/imported/Walk (36x30).png-470ceebb82f1a169d47d002ec85f0740.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/AngryPig/Walk (36x30).png"
-dest_files=["res://.godot/imported/Walk (36x30).png-0786ee5ed1029da42225a934b18357cd.ctex"]
+source_file="res://assets/Enemies/AngryPig/Walk (36x30).png"
+dest_files=["res://.godot/imported/Walk (36x30).png-470ceebb82f1a169d47d002ec85f0740.ctex"]
 
 [params]
 

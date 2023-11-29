@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c4lpouw1hnynh"
-path="res://.godot/imported/Hit (44x30).png-7120f29229a67e088bc8cc3d086ce599.ctex"
+uid="uid://cim46b06j4a78"
+path="res://.godot/imported/Hit (44x30).png-5955b9ebefe93104f2a1aabed0267e51.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Ghost/Hit (44x30).png"
-dest_files=["res://.godot/imported/Hit (44x30).png-7120f29229a67e088bc8cc3d086ce599.ctex"]
+source_file="res://assets/Enemies/Ghost/Hit (44x30).png"
+dest_files=["res://.godot/imported/Hit (44x30).png-5955b9ebefe93104f2a1aabed0267e51.ctex"]
 
 [params]
 

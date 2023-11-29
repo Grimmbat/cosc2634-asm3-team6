@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://pbvu5n16ycx"
-path="res://.godot/imported/Gost Particles (48x16).png-70a4bae5346c49b163104d0db386ff96.ctex"
+uid="uid://mmox7uhecdft"
+path="res://.godot/imported/Gost Particles (48x16).png-0e691f8ad092c04209253a2bb96b3644.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Ghost/Gost Particles (48x16).png"
-dest_files=["res://.godot/imported/Gost Particles (48x16).png-70a4bae5346c49b163104d0db386ff96.ctex"]
+source_file="res://assets/Enemies/Ghost/Gost Particles (48x16).png"
+dest_files=["res://.godot/imported/Gost Particles (48x16).png-0e691f8ad092c04209253a2bb96b3644.ctex"]
 
 [params]
 

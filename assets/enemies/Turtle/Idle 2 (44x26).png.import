@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dpln4jlnvq64s"
-path="res://.godot/imported/Idle 2 (44x26).png-e9ce40fea1b8b2fe464d2393deecc766.ctex"
+uid="uid://dinoyjas4omf"
+path="res://.godot/imported/Idle 2 (44x26).png-3669e4cfaf8cf52099d07b1ba3065db4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Turtle/Idle 2 (44x26).png"
-dest_files=["res://.godot/imported/Idle 2 (44x26).png-e9ce40fea1b8b2fe464d2393deecc766.ctex"]
+source_file="res://assets/Enemies/Turtle/Idle 2 (44x26).png"
+dest_files=["res://.godot/imported/Idle 2 (44x26).png-3669e4cfaf8cf52099d07b1ba3065db4.ctex"]
 
 [params]
 

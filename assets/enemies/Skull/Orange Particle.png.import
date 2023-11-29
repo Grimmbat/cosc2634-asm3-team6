@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ccjp1vjsb8wbe"
-path="res://.godot/imported/Orange Particle.png-287e50f5dcaecd17681a80331c98908d.ctex"
+uid="uid://dd8td7ioagrd7"
+path="res://.godot/imported/Orange Particle.png-ed6156df1a793d05ddac6409ea56b265.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemies/Skull/Orange Particle.png"
-dest_files=["res://.godot/imported/Orange Particle.png-287e50f5dcaecd17681a80331c98908d.ctex"]
+source_file="res://assets/Enemies/Skull/Orange Particle.png"
+dest_files=["res://.godot/imported/Orange Particle.png-ed6156df1a793d05ddac6409ea56b265.ctex"]
 
 [params]
 
