@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vq6fnsgc6atb"
-path="res://.godot/imported/Hit (64x32).png-105a285bfdf500d773c80e67638c5769.ctex"
+path="res://.godot/imported/Hit (64x32).png-2778ed399549a241d76ff490c5934357.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Enemies/Trunk/Hit (64x32).png"
-dest_files=["res://.godot/imported/Hit (64x32).png-105a285bfdf500d773c80e67638c5769.ctex"]
+source_file="res://assets/enemies/Trunk/Hit (64x32).png"
+dest_files=["res://.godot/imported/Hit (64x32).png-2778ed399549a241d76ff490c5934357.ctex"]
 
 [params]
 

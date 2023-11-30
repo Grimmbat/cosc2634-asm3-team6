@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6fwmfd8sjff6"
-path="res://.godot/imported/Red Particle.png-fba68ce96f2375d117f5d596242634af.ctex"
+path="res://.godot/imported/Red Particle.png-cddecef99329bdfe929a43faa958a211.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Enemies/Skull/Red Particle.png"
-dest_files=["res://.godot/imported/Red Particle.png-fba68ce96f2375d117f5d596242634af.ctex"]
+source_file="res://assets/enemies/Skull/Red Particle.png"
+dest_files=["res://.godot/imported/Red Particle.png-cddecef99329bdfe929a43faa958a211.ctex"]
 
 [params]
 

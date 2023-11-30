@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbxmgwx8s0r2h"
-path="res://.godot/imported/Rock1_Idle (38x34).png-c161c98446f6816e1a4957056c803e39.ctex"
+path="res://.godot/imported/Rock1_Idle (38x34).png-11dd33272c986205f64c76e669ba739b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Enemies/Rocks/Rock1_Idle (38x34).png"
-dest_files=["res://.godot/imported/Rock1_Idle (38x34).png-c161c98446f6816e1a4957056c803e39.ctex"]
+source_file="res://assets/enemies/Rocks/Rock1_Idle (38x34).png"
+dest_files=["res://.godot/imported/Rock1_Idle (38x34).png-11dd33272c986205f64c76e669ba739b.ctex"]
 
 [params]
 

@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://tnrgo7spe5qf"]
 
-[ext_resource type="Texture2D" uid="uid://cce0ieydh61i0" path="res://assets/tiles/Terrain (16x16).png" id="1_h3gti"]
+[ext_resource type="Texture2D" uid="uid://cce0ieydh61i0" path="res://tiles/Terrain (16x16).png" id="1_h3gti"]
 [ext_resource type="PackedScene" uid="uid://dfgtlo7qi3pad" path="res://civilian_base/civilian_base.tscn" id="2_8emog"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_k832q"]

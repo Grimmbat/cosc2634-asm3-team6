@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfq86m8w7dnk0"
-path="res://.godot/imported/Bullet Pieces.png-defc0569f9341c9b70624f553a86fba2.ctex"
+path="res://.godot/imported/Bullet Pieces.png-7ccad5db862160cb45149df8d7f193f8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Enemies/Bee/Bullet Pieces.png"
-dest_files=["res://.godot/imported/Bullet Pieces.png-defc0569f9341c9b70624f553a86fba2.ctex"]
+source_file="res://assets/enemies/Bee/Bullet Pieces.png"
+dest_files=["res://.godot/imported/Bullet Pieces.png-7ccad5db862160cb45149df8d7f193f8.ctex"]
 
 [params]
 

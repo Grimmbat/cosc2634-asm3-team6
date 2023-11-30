@@ -1,7 +1,7 @@
 [gd_scene load_steps=19 format=3 uid="uid://d0sunmqy0t4nm"]
 
 [ext_resource type="PackedScene" uid="uid://dfgtlo7qi3pad" path="res://civilian_base/civilian_base.tscn" id="1_w066k"]
-[ext_resource type="Texture2D" uid="uid://bxrsotq2wv8y7" path="res://assets/Enemies/Chicken/Run (32x34).png" id="2_11vfk"]
+[ext_resource type="Texture2D" uid="uid://bxrsotq2wv8y7" path="res://assets/enemies/Chicken/Run (32x34).png" id="2_11vfk"]
 [ext_resource type="Shape2D" uid="uid://dkdvjmrk3x7c8" path="res://chicken/chicken_collision_shape.tres" id="3_da21b"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_mr5ay"]
